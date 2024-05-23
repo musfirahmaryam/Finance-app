@@ -17,6 +17,7 @@ Set Up Database:
 Ensure you have a SQL database management system (DBMS) installed (e.g., MySQL, PostgreSQL).
 Open your DBMS and create a new database.
 Import the finance_app.sql file to set up the database schema and insert sample data.
+
 Review Documentation:
 
 Open the documentation.docx file to understand the database structure, relationships, and functional requirements. This will provide you with a comprehensive overview of how the database is organized and how it functions.
